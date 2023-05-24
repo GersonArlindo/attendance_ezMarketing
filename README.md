@@ -19,13 +19,3 @@ Este Sistema de Asistencia de Empleados en PHP y SQLite que comparto permite Cre
 <!-- wp:list -->
 <ul><li>Registrar su hora de Ingreso, hora de Ingreso a Descanso, hora de Salida de Descanso y hora de Salida </li><li>Listar el registro de sus ingresos y salidas</li><li>Gestionar su cuenta de empleado, cambiar la contraseña de registro que en un principio es el código de empleado</li></ul>
 <!-- /wp:list -->
-
-# Puesta a Punto de la Aplicación en un Servidor Local
-
-Cualquier duda sobre la puesta a punto de la aplicación en un servidor local, en el siguiente blog post la puedes resolver:
-
-https://www.configuroweb.com/46-aplicaciones-gratuitas-en-php-python-y-javascript/#Sistema-de-Asistencia-de-Empleados-en-PHP-y-SQLite
-
-Si deseas hacer cualquier cambio a la aplicación o un desarrollo a medida de cualquier índole me puedes contactar directo a mi Whatsapp Messenger en el siguiente enlace:
-
-https://www.configuroweb.com/WhatsappMessenger
